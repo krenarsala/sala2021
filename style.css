@@ -99,7 +99,7 @@ a:hover {
     width: calc(100vw - 40px);
     height: calc(100% - 40px);
     border-radius: 5px;
-    background: url(content/2.jpg);
+    background: url(krenarsala.jpg);
     background-size: cover;
     background-position: center 35%;
     -webkit-box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
