@@ -253,12 +253,12 @@ a.ig_image{
 
 .profile-box {
     text-align: center;
-    padding: 20px 0;
+    padding: 40px 0;
 }
 
 .profile-box img {
-    width: 80px; height: 80px;
-    border-radius: 80px;
+    width: 200px; height: 200px;
+    border-radius: 200px;
 }
 
 .about-me{
