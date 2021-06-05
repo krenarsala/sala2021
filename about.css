@@ -101,7 +101,7 @@ a:hover {
     width: calc(50vw - 30px);
     height: calc(100% - 40px);
     border-radius: 5px;
-    background: url(krenarsala.mp4);
+    background: url(krenarsala.jpg); 
     background-size: cover;
     background-position: center 35%;
     -webkit-box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
@@ -253,12 +253,12 @@ a.ig_image{
 
 .profile-box {
     text-align: center;
-    padding: 40px 0;
+    padding: 20px 0;
 }
 
 .profile-box img {
-    width: 200px; height: 200px;
-    border-radius: 200px;
+    width: 150px; height: 150px;
+    border-radius: 150px;
 }
 
 .about-me{
