@@ -101,7 +101,7 @@ a:hover {
     width: calc(50vw - 30px);
     height: calc(100% - 40px);
     border-radius: 5px;
-    background: url(content/2.jpg);
+    background: url(krenarsala.jpg);
     background-size: cover;
     background-position: center 35%;
     -webkit-box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
@@ -118,7 +118,7 @@ a.logo {
     width: 164px;
     height: 35px;
     display: block;
-    background: url(white.png) no-repeat;
+    background: url(sala.png) no-repeat;
     background-position: left center;
     background-size: auto 35px;
 }
